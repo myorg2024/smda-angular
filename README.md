@@ -1,2 +1,2 @@
 # smda-angular
-angukar apps
+angular apps
